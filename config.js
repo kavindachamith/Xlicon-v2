@@ -3,7 +3,7 @@ const chalk = require("chalk");
 
 
 //
-global.available = true;
+global.available = false;
 global.autoReadGc = false;
 global.autoReadAll = false;
 global.antitags = true;
@@ -13,14 +13,14 @@ global.antitags = true;
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
-global.statusseen = true;                 //This is the new variable for controlling status seen.
+global.statusseen = false;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["8801853262586","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801853262586","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801928502256"];
-global.OwnerName = "Slasher";
+global.Owner = ["94760737055"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["94760737055"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["94760737055"];
+global.OwnerName = "PARADOX_K_CT";
 global.BotName = "XLICON-MD";
 global.packname = "X-2.0 Bot";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
@@ -34,13 +34,13 @@ global.sessionName = "session";                          //Do not change.
 
 //
 global.prefa = ["."];                                    //Default prefix here.
-global.openAiAPI = "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";
+global.openAiAPI = "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";
 
 
 //
 global.location = "Dhaka, Bangladesh";                   
 global.reactmoji = "✅";
-global.themeemoji = "💖";
+global.themeemoji = "❄️";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
 global.websitex = "https://github.com/ahil15";
 global.lolhuman = "KaysaS";
